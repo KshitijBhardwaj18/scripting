@@ -1,0 +1,7 @@
+Jan 12 15:11:10 server01 systemd[1]: Started Session 31 of user root.
+Jan 12 15:11:11 server01 sshd[6201]: Accepted password for admin from 192.168.0.24 port 55433 ssh2
+Jan 12 15:11:13 server01 sshd[6201]: ERROR Failed password attempt for admin from 192.168.0.24 port 55433 ssh2
+Jan 12 15:11:15 server01 kernel: WARN CPU temperature high
+Jan 12 15:11:17 server01 sshd[6201]: INFO Connection established
+Jan 12 15:11:21 server01 sshd[6201]: ERROR Connection reset by peer
+Jan 12 15:11:25 server01 systemd[1]: Stopping User Manager for UID 0...
