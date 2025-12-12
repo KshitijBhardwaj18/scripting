@@ -1,5 +1,0 @@
-127.0.0.1 - - [12/Jan/2025:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 512 "-" "Mozilla/5.0"
-127.0.0.1 - - [12/Jan/2025:13:55:37 +0000] "POST /login HTTP/1.1" 500 1024 "-" "Mozilla/5.0" ERROR Internal server error
-127.0.0.1 - - [12/Jan/2025:13:55:38 +0000] "GET /dashboard HTTP/1.1" 200 1532 "-" "Mozilla/5.0"
-127.0.0.1 - - [12/Jan/2025:13:55:39 +0000] "GET /api/data HTTP/1.1" 404 201 "-" "Mozilla/5.0" WARN Missing resource
-127.0.0.1 - - [12/Jan/2025:13:55:40 +0000] "POST /api/update HTTP/1.1" 502 42 "-" "Mozilla/5.0" ERROR Bad gateway from upstream server

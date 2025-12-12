@@ -1,8 +1,0 @@
-2025-01-12 10:33:21,123 INFO User logged in: user_id=1023
-2025-01-12 10:33:22,991 DEBUG Fetching user profile from cache
-2025-01-12 10:33:23,554 ERROR Failed to load user preferences: KeyError('theme')
-2025-01-12 10:33:24,221 INFO Preferences fallback used
-2025-01-12 10:33:25,998 WARN Response time high: 812ms
-2025-01-12 10:33:27,145 ERROR Timeout while calling external API /v1/data
-2025-01-12 10:33:28,777 DEBUG Retrying external API call
-2025-01-12 10:33:29,884 INFO External API responded with 200 OK
