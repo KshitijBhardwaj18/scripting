@@ -1,0 +1,103 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.python-version
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually these files are written by PyInstaller when building an executable
+# They may contain sensitive info
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+cover/
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / VSCode / IDE files
+.idea/
+.vscode/
+*.iml
+
+# MyPy / Linting
+.mypy_cache/
+.dmypy.json
+dmypy.json
+ruff_cache/
+.pyre/
+
+# Django / Flask / FastAPI
+*.log
+db.sqlite3
+instance/
+.webassets-cache
+
+# dotenv files
+.env
+*.env
+.env.*
+.envrc
+
+# Local configs
+config.local
+settings.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite or temporary files
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
