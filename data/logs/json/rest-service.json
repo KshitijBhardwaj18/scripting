@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2024-12-11T11:00:00Z",
+    "service": "api",
+    "status": "success",
+    "message": "Request processed"
+  },
+  {
+    "timestamp": "2024-12-11T11:00:05Z",
+    "service": "api",
+    "status": "error",
+    "message": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2024-12-11T11:00:10Z",
+    "service": "worker",
+    "status": "error",
+    "message": "Job failed",
+    "job_id": 991
+  }
+]

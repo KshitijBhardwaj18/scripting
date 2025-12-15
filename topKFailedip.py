@@ -11,7 +11,7 @@ def top_k_failed_ips(k):
     for path in glob.glob("data/logs/nginx/*.log"):
         logfile = os.path.basename(path)
         with open(path,"r") as f:
-            for log in f:
+            for log in f: 
                 m = pattern.match(log)
                 if not m:
                     continue

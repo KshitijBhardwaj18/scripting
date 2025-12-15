@@ -1,0 +1,6 @@
+{"timestamp":"2024-12-11T10:21:10Z","service":"auth","status":"success","message":"User login successful","user":"alice"}
+{"timestamp":"2024-12-11T10:21:15Z","service":"auth","status":"error","message":"Invalid password","user":"bob"}
+{"timestamp":"2024-12-11T10:21:18Z","service":"payments","status":"error","message":"Payment gateway timeout","order_id":7821}
+{"timestamp":"2024-12-11T10:21:25Z","service":"orders","status":"success","message":"Order placed","order_id":7822}
+{"timestamp":"2024-12-11T10:21:30Z","service":"db","status":"ERROR","message":"Connection refused"}
+
